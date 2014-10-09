@@ -1,0 +1,38 @@
+form {
+	display: inline-block
+}
+
+#button{
+  display: inline-block;
+  height:25px;
+	width:70px;
+	background-color: green;
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	margin-top: 2px;
+	padding-top: 5px;
+}
+
+.list {
+	font-family: Helvetica, Arial;
+	color: blue;
+}
+
+.list:hover {
+	color: red;
+  font-weight: bold;
+}
+
+span {
+	font-family: Arial;
+	color: black;
+	margin-right: 4px;
+	cursor: pointer;
+}
+
+span:hover {
+	color: red;
+	font-weight: bold
+}
