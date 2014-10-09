@@ -3,8 +3,8 @@ form {
 }
 
 #button{
-  display: inline-block;
-  height:25px;
+  	display: inline-block;
+	height:25px;
 	width:70px;
 	background-color: green;
 	font-family: Arial;
@@ -22,7 +22,7 @@ form {
 
 .list:hover {
 	color: red;
-  font-weight: bold;
+  	font-weight: bold;
 }
 
 span {
